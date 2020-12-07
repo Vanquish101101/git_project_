@@ -6,3 +6,9 @@
 ванечек дурачечек
 
 echo "branch master file"
+
+.............
+
+test letter for recording in to GitHub for gitproject_test_1
+
+also veryfy recognasys letter UTF-8
